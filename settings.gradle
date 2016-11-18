@@ -1,0 +1,4 @@
+include ':'
+include ':appcompat', ':capsteal'
+include ':AmbilWarna'
+include ':simple-crop-image-lib'
